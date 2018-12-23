@@ -1,0 +1,6 @@
+base_image_name: python
+base_image_tag: 3.6-alpine3.8
+numpy_version: 1.15.4
+scipy_version: 1.2.0
+pandas_version: 0.23.4
+scikit_learn_version: 0.20.2
